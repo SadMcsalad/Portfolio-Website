@@ -61,7 +61,7 @@ body {
 }
 
 .home {
-    background: url('Attempt4.jpg') no-repeat;
+    background: url('Background.jpg') no-repeat;
     background-size: cover;
     background-position: center;
     height: 100vh;
@@ -213,4 +213,5 @@ body {
         width: 0;
         
     }
+
 }
