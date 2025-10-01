@@ -22,7 +22,7 @@ body {
     justify-content: space-between;
     align-items: center;
     z-index: 100;
-    background: #1b191a;
+    background: transparent;
 }
 
 .logo {
